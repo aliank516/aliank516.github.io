@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      java开发
+title:      Java 开发
 subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2020-01-06
-author:     BY
+author:     廉清令
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - java
+    - Java
 ---
 # 前言
 
